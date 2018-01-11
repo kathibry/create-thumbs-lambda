@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/BidnessForB/create-thumbs-lambda#readme",
   "dependencies": {
-    "marked": "^0.3.7"
+    "marked": "0.3.7"
   }
 }
