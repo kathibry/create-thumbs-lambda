@@ -1,0 +1,22 @@
+{
+  "name": "create-thumbs-lambda",
+  "version": "1.0.0",
+  "description": "Demo lambda project for AWS:Reinvent",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BidnessForB/create-thumbs-lambda.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BidnessForB/create-thumbs-lambda/issues"
+  },
+  "homepage": "https://github.com/BidnessForB/create-thumbs-lambda#readme",
+  "dependencies": {
+    "marked": "^0.3.7"
+  }
+}
